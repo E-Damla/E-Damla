@@ -1,6 +1,6 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY2NTA0NjAsIm5iZiI6MTcyNjY1MDE2MCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE4VDA5MDI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExNzc5ODNhZmNjNTU5M2E1ZmM5NzJmZTlhMTMxYWUxMzFjYzhiODYwY2IwNGZkNDAyOWQ2ZmI2MzlmYmY4YTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IDbHaawNdVaLlW2p2ybBE1g_gTDUJ6f1uAELjQm_LRw)
 <h1 align="center">Hi 👋, I'm Ezgi Damla Deliktaş</h1>
-<h3 align="center">Tutkulu Bir Full-Ftack Geliştiricisi.</h3>
+<h3 align="center">Tutkulu Bir Full-Ftack Geliştiricisi / A Passionate Full-Stack Developer</h3>
 
 - 📫 How to reach me **damlaezgi18@gmail.com**
 
