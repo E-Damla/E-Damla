@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ezgi Damla Deliktaş</h1>
-<h3 align="center">Full-Ftack Geliştirici / Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Geliştirici / Full-Stack Developer</h3>
 
 <p align="center">- 📫 How to reach me </p><a href="damlaezgi18@gmail.com"</a>
 
