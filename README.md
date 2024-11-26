@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0096.gif" alt="animated-line-image-0096">
 </div>
-<p align="right">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-damla&show_icons=true&locale=en&layout=compact&theme=radical" alt="e-damla" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=e-damla&show_icons=true&locale=en&theme=radical" alt="e-damla" /></p> </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=e-damla&show_icons=true&locale=en&theme=radical" alt="e-damla" /></p>
