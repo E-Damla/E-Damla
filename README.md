@@ -16,7 +16,7 @@
 <a href="https://instagram.com/https://www.instagram.com/ezgideliktas_?igsh=mxgwbthjzm9kn3l4yw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ezgideliktas_?igsh=mxgwbthjzm9kn3l4yw==" height="30" width="40" /></a>
 </p>
 <div align="center">
-  <img src="https://www.animatedimages.org/cat-lines-562.htm" alt="animated-line-image-0096">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0096.gif" alt="animated-line-image-0096">
 </div>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0096.gif" border="0" alt="animated-line-image-0096" /></a>
 <h3 align="center">Languages and Tools:</h3>
