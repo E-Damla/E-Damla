@@ -7,7 +7,7 @@
 <h3 align="center">Full-Stack Geliştirici / Full-Stack Developer</h3>
 
 <p align="center">- 📫 How to reach me </p><a href="damlaezgi18@gmail.com"</a>
-
+<a href="damlaezgi18@gmail.com">- 📫 How to reach me </a>
 
     
 <h3 align="center">Connect with me:</h3>
