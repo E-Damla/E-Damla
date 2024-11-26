@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Ezgi Damla Deliktaş</h1>
 <h3 align="center">Full-Stack Geliştirici / Full-Stack Developer</h3>
 
-<p align="center">- 📫 How to reach me </p><a href="damlaezgi18@gmail.com"</a>
-<a href="damlaezgi18@gmail.com">- 📫 How to reach me </a>
 
     
 <h3 align="center">Connect with me:</h3>
@@ -26,4 +24,4 @@
 <p align="right">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-damla&show_icons=true&locale=en&layout=compact&theme=radical" alt="e-damla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e-damla&show_icons=true&locale=en&theme=radical" alt="e-damla" /></p> </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=e-damla&show_icons=true&locale=en&theme=radical" alt="e-damla" /></p> </p>
