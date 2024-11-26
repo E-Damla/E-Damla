@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ezgi Damla Deliktaş</h1>
 <h3 align="center">Full-Stack Geliştirici / Full-Stack Developer</h3>
 
-
+<p align="center">- 📫 How to reach me **damlaezgi18@gmail.com** </p>
     
 <h3 align="center">Connect with me:</h3>
 <p align="center">
